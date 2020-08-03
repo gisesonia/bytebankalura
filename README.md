@@ -1,5 +1,7 @@
 # bytebank
 
+Projeto criado no curso de fundamentos Flutter
+
 A new Flutter project.
 
 ## Getting Started
