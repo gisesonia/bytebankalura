@@ -2,7 +2,7 @@
 
 Projeto criado no curso de fundamentos Flutter do curso da Alura
 
-Visualição funcional do projeto no link
+Visuazalição funcional do projeto no link
 
 [Bytebankalura](https://bytebankalura.netlify.app/#/)
 
